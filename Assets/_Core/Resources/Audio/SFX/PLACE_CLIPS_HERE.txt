@@ -1,0 +1,2 @@
+NY ROLLER RUSH - CORE SYSTEM
+Drop clips named: jump, land, lane_change, coin, powerup, near_miss, crash, button, high_score

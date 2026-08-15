@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403afb769a4c6d760eb8aa18c99bb003, type: 3}
+  m_Name: Neighborhood_Midtown
+  m_EditorClassIdentifier: 
+  displayName: Midtown
+  id: midtown
+  unlockScore: 2500
+  carDensity: 0.9
+  pedestrianDensity: 0.38
+  carSpeed: 10.2
+  speedModifier: 1.12
+  hazardNotes: Faster crosstown traffic, tighter blocks, bus lanes.
+  musicPlaceholder: Audio/Music/midtown
+  ambientColor: {r: 0.42, g: 0.5, b: 0.62, a: 1}
+  fogColor: {r: 0.28, g: 0.34, b: 0.42, a: 1}
+  fogDensity: 0.016
+  sunColor: {r: 0.85, g: 0.9, b: 1, a: 1}

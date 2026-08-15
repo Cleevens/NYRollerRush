@@ -1,0 +1,4 @@
+NY ROLLER RUSH - CORE SYSTEM
+Authored Neighborhood + Shop Item assets live in Neighborhoods/ and ShopItems/.
+Runtime load uses Assets/_Core/Resources/ copies of the same assets.
+If Resources folders are empty, CatalogFactory builds identical defaults.
